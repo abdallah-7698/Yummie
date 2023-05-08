@@ -12,4 +12,6 @@
     -> Have fun with my simple app    
 
 ## Video
-https://github.com/abdallah-7698/Yummie/blob/main/Screen%20Recording%202023-05-08%20at%202.55.35%20PM.mov
+
+https://user-images.githubusercontent.com/107879186/236818802-bc07a412-b95e-4a62-857d-6ce2781c6903.mov
+
