@@ -12,4 +12,4 @@
     -> Have fun with my simple app    
 
 ## Video
-https://user-images.githubusercontent.com/107879186/202199733-35da4536-ed41-43a3-abb3-ca9915c262fe.mov
+https://github.com/abdallah-7698/Yummie/blob/main/Screen%20Recording%202023-05-08%20at%202.55.35%20PM.mov
