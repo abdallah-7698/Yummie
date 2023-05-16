@@ -1,12 +1,13 @@
 
-name: Slack
+name: Slack Notifications
 
 on:
   pull_request:
-    branches: [ main , master ]
+    branches: [ main ]
 
 jobs:
-  slack:
+  notifySlack:
+  
     runs-on: ubuntu-latest
     
     steps:
