@@ -3,7 +3,7 @@ name: Slack
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [ main , master ]
 
 jobs:
   slack:
