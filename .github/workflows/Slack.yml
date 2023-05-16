@@ -14,6 +14,6 @@ jobs:
     - name: Notify slack
       env:
         SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-      uses: pullreminders/slack-action@master
+      uses: abinoda/slack-action@master
       with:
         args: '{\"channel\":\"C055HMZM0KU\",\"text\":\"Hello world\"}'
