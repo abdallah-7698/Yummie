@@ -2,7 +2,7 @@
 
 ## What Used in this App
     MVC Architectural Pattern
-    Disgn with Clean Code
+    Clean Code
     Custom network Layer
     
 ## How to use App 
